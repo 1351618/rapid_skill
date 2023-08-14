@@ -1,0 +1,20 @@
+* {
+    margin: 0px;
+}
+body {
+    /* background-color: blanchedalmond; */
+}
+
+:root {
+    --style: #7fd0ff;
+}
+
+.App-blue {
+    background-color: #7fd0ff;
+    height: 100vh;
+}
+
+.App-red {
+    background-color: rgb(255, 127, 127);
+    height: 100vh;
+}
